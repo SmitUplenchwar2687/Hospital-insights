@@ -416,11 +416,6 @@ export default function App() {
           transition={{ duration: 0.6, delay: 0.6 }}
           className="text-center"
         >
-          <Button asChild className="text-lg px-8 py-6 rounded-2xl shadow-xl">
-            <a href="mailto:data-team@example.com?subject=Hospital%20DB%20Insights">
-              Contact Data Team
-            </a>
-          </Button>
         </motion.div>
       </main>
     </div>
